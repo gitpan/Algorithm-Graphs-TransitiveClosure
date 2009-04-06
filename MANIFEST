@@ -1,0 +1,7 @@
+Changes
+README
+Makefile.PL
+MANIFEST
+t/000_tests.t
+lib/Algorithm/Graphs/TransitiveClosure.pm
+META.yml                                 Module meta-data (added by MakeMaker)
